@@ -1,6 +1,5 @@
 import pickle
 import streamlit as st
-from sklearn.tree import DecisionTreeClassifier
 with open('iris_classifier.pickle','rb') as f:
     clf = pickle.load(f)
 
