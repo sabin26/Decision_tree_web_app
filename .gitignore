@@ -1,2 +1,3 @@
-iris_classifier.pickle
-Iris-Decision-Tree.png
+*.pickle
+*.png
+.ipynb_checkpoints/
